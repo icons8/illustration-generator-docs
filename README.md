@@ -1,1 +1,1 @@
-# megacreator-docs
+# illustration-generator-docs

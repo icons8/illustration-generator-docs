@@ -5,9 +5,9 @@ keywords:
 comments: false
 
 # Hero section
-title: Mega Creator
+title: Illustration Generator
 description: Mega Creator is an online DIY graphic editor for building custom illustrations, photos, and collages from pre-made elements. It allows you to create a wide range of projects in many formats.
-icon: 'megacreator'
+icon: 'illustration-generator'
 
 # Micro navigation
 micro_nav: false

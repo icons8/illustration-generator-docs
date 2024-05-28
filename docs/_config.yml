@@ -13,8 +13,8 @@ doks:
         nav:
             - item_name: Documentation
               item_url: https://icons8.com/docs
-            - item_name: Megacreator
-              item_url: https://icons8.com/megacreator
+            - item_name: Illustration Generator
+              item_url: https://icons8.com/illustration-generator
               external_url: true
             - item_name: Icons
               item_url: https://icons8.com
@@ -45,7 +45,7 @@ permalink: /:title/
 
 algolia:
   application_id: E0SRZV1KDE
-  index_name: docs_megacreator
+  index_name: docs_illustration_generator
   search_only_api_key: 3c69946746f91017d9d59e85186f93ea
   files_to_exclude: []
 
