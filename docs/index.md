@@ -6,7 +6,7 @@ comments: false
 
 # Hero section
 title: Illustration Generator
-description: Illustration Creator is an online DIY graphic editor for building custom illustrations, photos, and collages from pre-made elements. It allows you to create a wide range of projects in many formats.
+description: Illustration Generator is an AI-powered text-to-image and image-to-image art maker.
 icon: 'illustration-generator'
 
 # Micro navigation
@@ -18,116 +18,115 @@ micro_nav: false
 #         content: Pichon
 #         url: '/pichon-docs'
 ---
-## Starting
+## About Illustration Generator
 
-When you open Mega Creator, you will see the **My designs** section at the top, which will hold any collages you create. Here, you can start a new project right away or scroll down to view all of our templates, which you can use as a base for your project. 
+Illustration Generator is an AI-powered text-to-image and image-to-image art maker. By providing text prompts or reference images to the generator, you can create visuals for web, desktop, and mobile apps, social media, marketing, and other design needs. The AI model is trained on visuals crafted by Icons8 artists, ensuring the consistency and professional look of resulting AI artwork.
 
-<p align="center">
-  <img width="900" src="/public/templates.png">
-</p>
+Illustration Generator is free for experimenting with [drafts](#drafts-and-final-illustrations). Final illustrations are available with a subscription to a paid plan, which also includes a 30-day history and commercial use.
 
-Before proceeding, click on <img align="center" height="25" src="/public/hamburgermenu.png"> in the top-right corner and log in to your Icons8 account to save your designs and connect your subscription if you have one.
 
-Let's create a simple event announcement poster for social media.
+## Drafts and final illustrations
 
-### Canvas settings
+Think of drafts as sketches or previews. They let you get an idea of how the final image will look and quickly iterate before generating the enhanced image. You can generate any number of drafts for free until you’re happy with the suggested image. Final images are way more detailed than drafts and require more computing power and generation time. To finalize drafts, you’ve got to have a subscription.
 
-Click **Create new design** in the My Designs section or press _Ctrl+X_. You will see the main working area with a blank canvas. As a first step, click on the canvas size dropdown menu in the top panel and select the resolution you need. You can choose a preset template or set a custom size. Here, you can also set a name for your design and control the zoom scale. For now, we will go with a standard 4x3 canvas.
+The example below shows the difference between drafts (left) and final images.
 
-<p align="center">
-  <img width="900" src="/public/resolution.png">
-</p>
+![Drafts vs final illustrations](public/ig-draft-final.png)
 
-Often, you will need to apply a specific color to the canvas, so head to the **Backgrounds** section in the left-side panel. There, you can choose a solid color or a gradient from a preset palette, set custom colors with a color picker or a HEX code. Below the color options, you will also see suggested graphic assets you can use as backgrounds.
+## Before you started
 
-<p align="center">
-  <img width="900" src="/public/bgcolor.png">
-</p>
+To get the maximum out of Illustration Generator you will need a subscription. Follow these steps:
 
-### Libraries and Search
+1. Create an Icons8 account or log in if you already have one.
+2. Go to <a href="https://icons8.com/illustration-generator" target="_blank">Illustration Generator</a>. In the upper-right corner, click **Upgrade**.
+3. Choose the monthly or annual plan and provide your card details.
 
-The main highlight of Mega Creator is the integrated libraries of Icons8 graphics, which let you seamlessly combine and modify any of our assets in your designs.
-Currently, Mega Creator includes illustrations, 3D models, icons, and photos. Some categories, such as Shapes and Backgrounds, combine several types of assets.
+## Generating images
 
-Click on the **Icons** section of the left-side panel. You can use the search bar at the top to find icons from all styles or use **filters** and **categories** to limit your search.
+### Text-to-image
 
-<p align="center">
-  <img width="900" src="/public/icons.png">
-</p>
+Prompts are simple text instructions that explain to the AI what you want to see in the illustration. For better results, we recommend that you use short, straightforward descriptions, delimiting them with commas or semicolons. Example: "funny cat in a silly hat, sitting in a basket".
 
-## Controls and features
+To generate and illustrartion:
 
-Place an icon on the canvas by clicking or dragging and dropping it onto the working area. Click on the placed icon again to see the available controls:
+1. In the left panel, enter a text prompt in the **Description** field. Describe the image you want to create.
+2. Pick a style.
+3. Pick an aspect ratio for the image.
+4. Click on the **Generate drafts** button or press `Enter` to see preliminary versions of your image.
+5. Refine and iterate. Adjust your text prompt as needed and generate new drafts until you are satisfied with the preview. To create variations of a specific draft, click the **Make Variations** button.
+6. Once satisfied with the draft, click **Finalize** to create a detailed final version.
+7. Click **Download** or use the **Copy** button to copy-paste the image where you need it.
 
-<p align="center">
-  <img width="900" src="/public/objcont.png">
-</p>
+<video autoplay="" muted="" loop="" playsinline="" width="auto" poster="/public/shapes-transform1placeholder.png" height="auto"><source src="/public/illustration-generator1.mp4" type="video/mp4"></video>
 
-**Adjust Effects** menu includes the following settings:
-* **Opacity** is used to control how transparent the object is.
-* **Shadow** adds a tweakable shadow to the object.
-* **Outline** is available for text objects and adds an outline of variable thickness that can be recolored.
-* **Harmonization** is available for user-uploaded objects and is used to adjust the color balance of an image to make it fit the project.
+<div class="callout callout--info">
+    <p><strong>Tips:</strong> Here are some tips for prompting in Illustration Generator.</p>
+    <p><strong>Do's</strong></p>
+    <ul>
+        <li>Use synonyms to better convey your idea. For example, ”shy, modest girl in an old antique dusty library.”</li>
+        <li>Use adjectives and participles to add details. Example: “happy man sitting on the beach smiling“.</li>
+        <li>Check your spelling.</li>
+    </ul>
+    <p><strong>Don’ts</strong></p>
+    <ul>
+        <li>Don’t try talking to Human Generator like you do with ChatGPT.</li>
+        <li>Don’t use brackets and parentheses.</li>
+        <li>Don’t use capitalization.</li>
+    </ul>
+</div>
 
-After we resized an icon and adjusted its opacity to make it act as a background accent, we also placed several **illustrations** that fit the theme of our project. The illustration menu filters are more extensive than those in the icons section: you can sort by technique, mood, and colors, amongst other parameters:
 
-<p align="center">
-  <img width="900" src="/public/illsearch.png">
-</p>
 
-One of the illustrations blends with the background, so we need to **recolor** it:
-<video autoplay="" muted="" loop="" playsinline="" width="auto" height="auto"><source src="/public/recolor.mp4" type="video/mp4"></video>
+### Image-to-Image
 
-Now it's time to add **text**. In the corresponding section of the tool, you can use text blocks of a preset size and explore all the fonts we have. Mega Creator uses [Google Fonts](https://fonts.google.com/) for all your text-based needs.
+Using reference images is handy when you have a clear vision of what you want or when you struggle to find the right words to describe your idea. By uploading a reference image, you can make the creative process more efficient and precise.
 
-After placing a text object, you can change its color, weight, line spacing, formatting, and alignment:
+Unlike text-to-image generation, using a reference image creates the final image immediately, without generating drafts, and with the aspect ratio of the reference image.
 
-<p align="center">
-  <img width="900" src="/public/text.png">
-</p>
+To generate an illustration from a reference image:
 
-Let's switch to the **Shapes** tab located on the left-side panel. This section includes basic geometric shapes and simple illustrations. In our example, we are going to use rectangles to make the text stand out:
+1. In the left panel, enable the **Reference image** toggle.
+2. Click on the **Upload image** button to select an image from your device.
+3. Pick a style.
+4. Pick an aspect ratio for the image.
+5. Click **Generate illustration** or press `Enter`.
+6. (optional) To regenerate the image, click **Generate illustration** once again. To make adjustments, type your desired changes in the Description field and regenerate the illustration.
+7. Click **Download** or use the **Copy** button to copy-paste the image wherever you want it.
 
-<video autoplay="" muted="" loop="" playsinline="" width="auto" height="auto"><source src="/public/shape.mp4" type="video/mp4"></video>
+<video autoplay="" muted="" loop="" playsinline="" width="auto" poster="/public/shapes-transform1placeholder.png" height="auto"><source src="/public/illustration-generator2.mp4" type="video/mp4"></video>
 
-As a final touch, we will add a QR code generated by a third-party tool to the flyer. For that, we will need to use the **Upload** tab of the left-side panel. Mega Creator supports **.png**, **.jpg**, **.webp** and **.svg** uploads of up to **20 Mb** in size.
 
-<p align="center">
-  <img width="900" src="/public/QR.png">
-</p>
+<div class="callout callout--info">
+    <p><strong>Tip:</strong> For reference images, you can use our <a href="https://icons8.com/illustrations" target="_blank">illustrations</a> and <a href="https://icons8.com/photos" target="_blank">photos</a>. We're totally okay with that.</p>
+</div>
 
-## AI Tools and 3D Models
 
-In addition to the graphic libraries described above, Mega Creator features our AI tools and interactable 3D models.
 
-You can remove backgrounds from any images uploaded manually:
 
-<video autoplay="" muted="" loop="" playsinline="" width="auto" height="auto"><source src="/public/reindeer.mp4" type="video/mp4"></video>
 
-If you pick an image from the **Photo** section, you will be able to swap the face of a person on the photo with an AI-generated twin, one of the preloaded images, or with a photo you uploaded yourself:
 
-<video autoplay="" muted="" loop="" playsinline="" width="auto" height="auto"><source src="/public/faceswap.mp4" type="video/mp4"></video>
+## Generation history
+If you want to revisit drafts and illustrations you generated earlier, you can find them in **History**.
 
-Some of the illustrations from our 3D styles are included in Mega Creator as full-fledged **3D models**, which can be found in the corresponding menu section:
+<div class="callout callout--info">
+     <p><strong>Note:</strong> To save the history of your generations, you need to be signed in when working with Illustration Generator.</p>
+</div>
 
-<video autoplay="" muted="" loop="" playsinline="" width="auto" height="auto"><source src="/public/space.mp4" type="video/mp4"></video>
 
-For the 3D models to work properly, you should have **Hardware Acceleration** enabled in your browser:
-* In **Chrome**, go to *Chrome Menu* > *Settings* > *Advanced*. Under *System*, enable **Use hardware acceleration when available**.
-* In **Safari**, click *Safari*, then *Settings* > *Advanced* and toggle **Use hardware acceleration** on. This is available on systems older than MacOs 10.15.
-* In **Firefox** go to *Menu* > *Settings*, in the *General* panel, go down to the *Performance section*. Uncheck the box next to **Use recommended performance settings** and then check the **Use hardware acceleration when available** box instead.
- 
+To view the history:
 
-## Export and Sharing
+1. In the upper-right corner, click on your profile.
+2. Click **History**.
 
-Any changes you make in a project get automatically saved and synced with the server. This way, you can safely close and revisit your documents at any point.
+ ![Accessing history in Illustration Generator](public/history.png)
 
-You can export your projects in three formats: .svg, .png, and .psd, which are available in several sizes.
-Please note that if your project contains raster images (for example, photos or non-svg files you uploaded manually), you won't be able to export it in .svg.
+You’ll see the gallery of your generations for the previous 30 days.
 
-Here's how our project looks after exporting it as a large-resolution .png:
+![Drafts vs final illustrations](public/history_view.png)
 
-<p align="center">
-  <img width="900" src="/public/flyer.png">
-</p>
+In the History gallery, you can:
+
+* Click on an image to get back and edit it in Illustration Generator.
+* Click `x` to delete an image.
+* Delete all images from the gallery using the **Clear all** button.
 
