@@ -18,14 +18,12 @@ micro_nav: false
 #         content: Pichon
 #         url: '/pichon-docs'
 ---
-## About Illustration Generator
-
-Illustration Generator is an AI-powered text-to-image and image-to-image art maker. By providing text prompts or reference images to the generator, you can create visuals for web, desktop, and mobile apps, social media, marketing, and other design needs. The AI model is trained on visuals crafted by Icons8 artists, ensuring the consistency and professional look of resulting AI artwork.
+By providing text prompts or reference images to the generator, you can create visuals for web, desktop, and mobile apps, social media, marketing, and other design needs. The AI model is trained on visuals crafted by Icons8 artists, ensuring the consistency and professional look of resulting AI artwork.
 
 Illustration Generator is free for experimenting with [drafts](#drafts-and-final-illustrations). Final illustrations are available with a subscription to a paid plan, which also includes a 30-day history and commercial use.
 
 
-## Drafts and final illustrations
+### Drafts and final illustrations
 
 Think of drafts as sketches or previews. They let you get an idea of how the final image will look and quickly iterate before generating the enhanced image. You can generate any number of drafts for free until you’re happy with the suggested image. Final images are way more detailed than drafts and require more computing power and generation time. To finalize drafts, you’ve got to have a subscription.
 
@@ -33,7 +31,7 @@ The example below shows the difference between drafts (left) and final images.
 
 ![Drafts vs final illustrations](public/ig-draft-final.png)
 
-## Before you started
+### Before you started
 
 To get the maximum out of Illustration Generator you will need a subscription. Follow these steps:
 
@@ -41,9 +39,9 @@ To get the maximum out of Illustration Generator you will need a subscription. F
 2. Go to <a href="https://icons8.com/illustration-generator" target="_blank">Illustration Generator</a>. In the upper-right corner, click **Upgrade**.
 3. Choose the monthly or annual plan and provide your card details.
 
-## Generating images
+### Generating images
 
-### Text-to-image
+#### Text-to-image
 
 Prompts are simple text instructions that explain to the AI what you want to see in the illustration. For better results, we recommend that you use short, straightforward descriptions, delimiting them with commas or semicolons. Example: "funny cat in a silly hat, sitting in a basket".
 
@@ -77,7 +75,7 @@ To generate and illustrartion:
 
 
 
-### Image-to-Image
+#### Image-to-Image
 
 Using reference images is handy when you have a clear vision of what you want or when you struggle to find the right words to describe your idea. By uploading a reference image, you can make the creative process more efficient and precise.
 
@@ -105,7 +103,7 @@ To generate an illustration from a reference image:
 
 
 
-## Generation history
+### Generation history
 If you want to revisit drafts and illustrations you generated earlier, you can find them in **History**.
 
 <div class="callout callout--info">
