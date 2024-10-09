@@ -22,12 +22,14 @@ By providing text prompts or reference images to the generator, you can create v
 
 Illustration Generator is free for experimenting with [drafts](#drafts-and-final-illustrations). Final illustrations are available with a subscription to a paid plan, which also includes a 30-day history and commercial use.
 
-
+<!--
 ### Drafts and final illustrations
 
 Think of drafts as sketches or previews. They let you get an idea of how the final image will look and quickly iterate before generating the enhanced image. You can generate any number of drafts for free until you’re happy with the suggested image. Final images are way more detailed than drafts and require more computing power and generation time. To finalize drafts, you need to have a subscription.
 
 The example below shows the difference between drafts and final images.
+
+-->
 
 ![Drafts vs final illustrations](public/ig-draft-final.png)
 
