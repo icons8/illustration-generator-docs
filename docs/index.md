@@ -20,7 +20,7 @@ micro_nav: false
 ---
 By providing text prompts or reference images to the generator, you can create visuals for web, desktop, mobile apps, social media, marketing, and other design needs. The AI model is trained on visuals crafted by Icons8 artists, ensuring the consistency and professional look of resulting AI artwork.
 
-Illustration Generator is free for experimenting with [drafts](#drafts-and-final-illustrations). Final illustrations are available with a subscription to a paid plan, which also includes a 30-day history and commercial use.
+Illustration Generator is free for experimenting, but the resulting images will have watermarks. To remove watermarks, subscribe to a paid plan, which also includes a 30-day history and commercial use.
 
 <!--
 ### Drafts and final illustrations
@@ -29,9 +29,10 @@ Think of drafts as sketches or previews. They let you get an idea of how the fin
 
 The example below shows the difference between drafts and final images.
 
--->
 
 ![Drafts vs final illustrations](public/ig-draft-final.png)
+
+-->
 
 ### Before you started
 
@@ -50,11 +51,11 @@ Prompts are simple text instructions that explain to the AI what you want to see
 To generate an illustrartion:
 
 1. In the left panel, enter a text prompt in the **Description** field. Describe the image you want to create.
-2. Pick a style.
+2. Pick a style. Styles that support SVG generation are labeled. For other styles, only PNG format is available. 
 3. Pick an aspect ratio for the image.
-4. Click the **Generate drafts** button or press `Enter` to see preliminary versions of your image.
-5. Refine and iterate. Adjust your text prompt as needed and generate new drafts until you are satisfied with the preview. To create variations of a specific draft, click the **Make Variations** button.
-6. Once satisfied with the draft, click **Finalize** to create a detailed final version.
+4. Click the **Generate illustration** button or press `Enter`.
+5. Refine and iterate. Adjust your text prompt as needed and generate new illustrations until you get what you need.
+6. Once satisfied with the illustration, click **Remove watermark**. This will use one credit from your balance.
 7. Click **Download** or use the **Copy** button to paste the image where you need it.
 
 <video autoplay="" muted="" loop="" playsinline="" width="auto" poster="/public/shapes-transform1placeholder.png" height="auto"><source src="/public/illustration-generator1.mp4" type="video/mp4"></video>
