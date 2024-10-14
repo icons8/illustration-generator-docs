@@ -58,7 +58,7 @@ To generate an illustrartion:
 6. Once satisfied with the illustration, click **Remove watermark**. This will use one credit from your balance.
 7. Click **Download** or use the **Copy** button to paste the image where you need it.
 
-<video autoplay="" muted="" loop="" playsinline="" width="auto" poster="/public/shapes-transform1placeholder.png" height="auto"><source src="/public/illustration-generator1.mp4" type="video/mp4"></video>
+<video autoplay="" muted="" loop="" playsinline="" width="auto" poster="/public/newig.png" height="auto"><source src="/public/newig.mp4" type="video/mp4"></video>
 
 <div class="callout callout--info">
     <p><strong>Tips:</strong> Here are some tips for prompting in Illustration Generator.</p>
