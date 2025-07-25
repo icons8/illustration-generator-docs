@@ -34,7 +34,7 @@ The example below shows the difference between drafts and final images.
 
 -->
 
-### Before you started
+### Before you start
 
 To get the most out of Illustration Generator you will need a subscription. Follow these steps:
 
